@@ -10,7 +10,7 @@ $connectionParams = [
     'user' => '',
     'password' => '',
     'host' => '',
-    'port' => 3306,
+    'port' => '',
     'driver' => 'pdo_mysql',
 ];
 
